@@ -4,11 +4,9 @@ import random
 
 userValue = 0
 userItem = ""
-userWins = 0
 
 computerValue = 0
 computerItem = ""
-computerWins = 0
 
 #Introduction to the game
 print("Welcome to the game Rock Paper Scissors")
